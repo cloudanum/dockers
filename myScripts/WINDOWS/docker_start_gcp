@@ -1,0 +1,3 @@
+sudo docker container run -it --mount type=bind,source="/Users/iahmad/gcp_share",target=/gcp_share --mount type=bind,source="/Users/iahmad/Dropbox/DOCKER/DOCKER_SHARE",target=/root/work cloudanum/gcp
+
+

@@ -1,0 +1,1 @@
+sudo gcloud docker -- push gcr.io/cloudanum1/base_minimal_scipy_ds

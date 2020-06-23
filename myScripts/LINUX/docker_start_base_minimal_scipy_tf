@@ -1,0 +1,3 @@
+sudo docker container run -it -p 9003:8888 --rm --mount type=bind,source="/home/iahmad/Dropbox/DOCKER/DOCKER_SHARE",target=/home/iahmad/work cloudanum/base_minimal_scipy_tf bash
+
+
